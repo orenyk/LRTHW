@@ -1,1 +1,1 @@
-# This is the repository for my files from [Learn Ruby The Hard Way](http://ruby.learncodethehardway.org/book/).
+## This is the repository for my files from [Learn Ruby The Hard Way](http://ruby.learncodethehardway.org/book/).

@@ -296,6 +296,9 @@
 	},
 	"file_history":
 	[
+		"/home/oren/ruby_projects/LRTHW/ex4.rb",
+		"/home/oren/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+		"/home/oren/ruby_projects/LRTHW/README.md",
 		"/home/oren/ruby_projects/LRTHW/ex3.rb",
 		"/home/oren/ruby_projects/LRTHW/ex2.rb",
 		"/home/oren/ruby_projects/LRTHW/ex1.rb",
@@ -396,7 +399,6 @@
 		"/home/oren/.bashrc",
 		"/home/oren/rails_projects/skillshare_rails/README.md",
 		"/home/oren/.gemrc",
-		"/home/oren/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
 		"/home/oren/rails_projects/thechosengifts/Gemfile",
 		"/home/oren/rails_projects/thechosengifts/.git/COMMIT_EDITMSG",
 		"/home/oren/rails_projects/thechosengifts/.git/config",
@@ -421,9 +423,7 @@
 		"/home/oren/rails_projects/thechosengifts/app/helpers/application_helper.rb",
 		"/home/oren/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
 		"/home/oren/rails_projects/thechosengifts/app/views/layouts/_shim.html.erb",
-		"/home/oren/rails_projects/thechosengifts/app/controllers/static_pages_controller.rb",
-		"/home/oren/rails_projects/thechosengifts/Guardfile",
-		"/home/oren/rails_projects/thechosengifts/.rspec"
+		"/home/oren/rails_projects/thechosengifts/app/controllers/static_pages_controller.rb"
 	],
 	"find":
 	{
@@ -899,6 +899,6 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 159.0,
+	"side_bar_width": 123.0,
 	"status_bar_visible": true
 }
