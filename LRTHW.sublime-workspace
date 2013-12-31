@@ -4,6 +4,14 @@
 		"selected_items":
 		[
 			[
+				"weig",
+				"weight_in_kg"
+			],
+			[
+				"hei",
+				"height_in_cm"
+			],
+			[
 				"static",
 				"static_pages"
 			],
@@ -296,6 +304,8 @@
 	},
 	"file_history":
 	[
+		"/home/oren/ruby_projects/LRTHW/ex5.rb",
+		"/home/oren/.config/sublime-text-2/Packages/AdvancedNewFile/Default (Linux).sublime-keymap",
 		"/home/oren/ruby_projects/LRTHW/ex4.rb",
 		"/home/oren/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
 		"/home/oren/ruby_projects/LRTHW/README.md",
@@ -421,9 +431,7 @@
 		"/home/oren/rails_projects/thechosengifts/config/database.yml",
 		"/home/oren/rails_projects/thechosengifts/config/routes.rb",
 		"/home/oren/rails_projects/thechosengifts/app/helpers/application_helper.rb",
-		"/home/oren/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
-		"/home/oren/rails_projects/thechosengifts/app/views/layouts/_shim.html.erb",
-		"/home/oren/rails_projects/thechosengifts/app/controllers/static_pages_controller.rb"
+		"/home/oren/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings"
 	],
 	"find":
 	{
@@ -442,6 +450,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"my_",
 			"alt",
 			"spr",
 			"super",
