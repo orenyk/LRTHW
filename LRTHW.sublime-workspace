@@ -4,6 +4,26 @@
 		"selected_items":
 		[
 			[
+				"am",
+				"amount_of_crackers"
+			],
+			[
+				"amo",
+				"amount_of_cheese"
+			],
+			[
+				"amoun",
+				"amount_of_cheese"
+			],
+			[
+				"chees",
+				"cheese_and_crackers"
+			],
+			[
+				"puts_tw",
+				"puts_two_again"
+			],
+			[
 				"weig",
 				"weight_in_kg"
 			],
@@ -304,6 +324,8 @@
 	},
 	"file_history":
 	[
+		"/home/oren/ruby_projects/LRTHW/ex19.rb",
+		"/home/oren/ruby_projects/LRTHW/ex18.rb",
 		"/home/oren/ruby_projects/LRTHW/ex17_out.txt",
 		"/home/oren/ruby_projects/LRTHW/ex17.rb",
 		"/home/oren/ruby_projects/LRTHW/ex17_test.txt",
@@ -429,9 +451,7 @@
 		"/home/oren/rails_projects/thechosengifts/.git/COMMIT_EDITMSG",
 		"/home/oren/rails_projects/thechosengifts/.git/config",
 		"/home/oren/.ssh/config",
-		"/home/oren/rails_projects/sample_app/.git/config",
-		"/home/oren/.ssh/identity.heroku.personal.pub",
-		"/home/oren/.ssh/identity.heroku.personal"
+		"/home/oren/rails_projects/sample_app/.git/config"
 	],
 	"find":
 	{
@@ -450,6 +470,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"ib",
 			"line2",
 			"1",
 			"my_",
