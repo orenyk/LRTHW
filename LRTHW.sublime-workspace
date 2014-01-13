@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"curr",
+				"current_file"
+			],
+			[
 				"am",
 				"amount_of_crackers"
 			],
@@ -324,6 +328,9 @@
 	},
 	"file_history":
 	[
+		"/home/oren/ruby_projects/LRTHW/ex21.rb",
+		"/home/oren/ruby_projects/LRTHW/ex20.rb",
+		"/home/oren/ruby_projects/LRTHW/ex20_test.txt",
 		"/home/oren/ruby_projects/LRTHW/ex19.rb",
 		"/home/oren/ruby_projects/LRTHW/ex18.rb",
 		"/home/oren/ruby_projects/LRTHW/ex17_out.txt",
@@ -448,10 +455,7 @@
 		"/home/oren/rails_projects/skillshare_rails/README.md",
 		"/home/oren/.gemrc",
 		"/home/oren/rails_projects/thechosengifts/Gemfile",
-		"/home/oren/rails_projects/thechosengifts/.git/COMMIT_EDITMSG",
-		"/home/oren/rails_projects/thechosengifts/.git/config",
-		"/home/oren/.ssh/config",
-		"/home/oren/rails_projects/sample_app/.git/config"
+		"/home/oren/rails_projects/thechosengifts/.git/COMMIT_EDITMSG"
 	],
 	"find":
 	{
