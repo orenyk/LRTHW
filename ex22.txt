@@ -1,0 +1,81 @@
+# puts #
+puts - prints to screen, followed by a new line
+
+# \# #
+\# - comments a full line (or the remainder of a line) of code so it is not executed
+\#{VAR} - within a string, this inserts the text of the value of whatever the variable VAR is equal to
+
+# + #
++ - adds two numbers together
+
+# - #
+- - subtracts one number from another
+
+# / #
+/ - divides one number by another
+
+# \* #
+\* - multiplies one number by another
+
+# % #
+% - takes the modulus (remainder) from dividing one number by another
+%f, %d, etc - when inside a string, these allow for the insertion of numerical values from variables with formatting based on the exact characters used (i.e. %3.2f takes a float and ensures that it has 3 characters before the decimal and 2 afterwards); follow the string with %[VAR1, VAR2] where the variables are in the order of appearance
+
+# <, <=, >, >=, ==, != #
+Compares the values of two numbers
+
+# def #
+def - defines a new function, is followed by parentheses with optional
+
+# end #
+end - ends a function definition (among other things)
+
+# print #
+print - prints out the string / converted variable without a new line afterwards
+
+# \\n, \\\\ #
+\\n, \\\\ - new line characters in strings
+
+# <<NAME #
+<<NAME - when placed after puts or print, allows for the literal printing of the lines following until NAME is placed on its own line again; example -
+    puts <<BLOCK
+    this is text
+    that will be printed
+    with new lines
+    BLOCK
+
+# \\t #
+\\t - tab character in strings
+
+# gets #
+gets - receives input from somewhere; in the command line context it's from the command line
+
+# \#chomp() #
+\#chomp() - method on strings to remove separators (defaults to \\r, \\n, and \\r\\n)
+
+# do...end #
+do...end - block of code that is run on the preceding object (can be run many times).  Block-local variables are identified between |OBJ|
+
+# ARGV #
+ARGV - array of inputs to a script
+
+# STDIN #
+STDIN - explicit calling of command line for \#gets
+
+# File #
+File - Ruby class for file-related stuff (subclass of IO)
+## \#open(filename, mode) ##
+File.open(filename, mode) - opens the file at filename and returns a File object, optional parameter mode defines whether or not the file is read-only, write, etc.  If opened with mode = 'w' then the file will be truncated (erased).
+## \#read() ##
+File.read() - reads the contents of the file
+## \#close() ##
+File.close() - closes the file (good practice)
+## \#write(str) ##
+File.write(str) - appends str to the end of the file
+## \#seek(amount, whence=IO::SEEK_SET) ##
+File.seek(amount, whence=IO::SEEK_SET) - seeks to a given location in the file (defined by amount) relative to the location defined by whence.
+## \#readline() ##
+File.readline() - only reads a single line of the file
+
+# \*args #
+\*args - input parameter for a function that takes an arbitrary number of parameters
