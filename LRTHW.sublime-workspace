@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"star",
+				"start_point"
+			],
+			[
 				"curr",
 				"current_file"
 			],
@@ -328,6 +332,9 @@
 	},
 	"file_history":
 	[
+		"/home/oren/ruby_projects/LRTHW/ex26.rb",
+		"/home/oren/ruby_projects/LRTHW/ex25.rb",
+		"/home/oren/ruby_projects/LRTHW/ex24.rb",
 		"/home/oren/ruby_projects/LRTHW/ex20.rb",
 		"/home/oren/ruby_projects/LRTHW/ex19.rb",
 		"/home/oren/ruby_projects/LRTHW/ex22.txt",
@@ -452,10 +459,7 @@
 		"/home/oren/rails_projects/thechosengifts_com/tmp/cache/assets/D5A/EA0/sprockets%2Fd771ace226fc8215a3572e0aa35bb0d6",
 		"/home/oren/rails_projects/thechosengifts_com/Gemfile",
 		"/home/oren/rails_projects/thechosengifts_com/Guardfile",
-		"/home/oren/rails_projects/thechosengifts_com/.rspec",
-		"/home/oren/rails_projects/thechosengifts_com/.git/config",
-		"/home/oren/rails_projects/thechosengifts_com/README.md",
-		"/home/oren/rails_projects/thechosengifts_com/config/database.yml"
+		"/home/oren/rails_projects/thechosengifts_com/.rspec"
 	],
 	"find":
 	{
@@ -474,6 +478,9 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"ex25",
+			"Ex25",
+			"ex25",
 			"method",
 			"ib",
 			"line2",
