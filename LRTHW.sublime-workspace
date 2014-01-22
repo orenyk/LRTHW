@@ -263,9 +263,13 @@
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 33.0,
+		"height": 264.0,
 		"selected_items":
 		[
+			[
+				"wrap",
+				"Word Wrap: Toggle"
+			],
 			[
 				"pac",
 				"Package Control: Install Package"
@@ -315,7 +319,7 @@
 				"Package Control: List Packages"
 			]
 		],
-		"width": 399.0
+		"width": 443.0
 	},
 	"console":
 	{
@@ -332,6 +336,9 @@
 	},
 	"file_history":
 	[
+		"/home/oren/ruby_projects/LRTHW/ex33.rb",
+		"/home/oren/ruby_projects/LRTHW/ex31.rb",
+		"/home/oren/ruby_projects/LRTHW/ex32.rb",
 		"/home/oren/ruby_projects/LRTHW/ex29.rb",
 		"/home/oren/ruby_projects/LRTHW/ex30.rb",
 		"/home/oren/ruby_projects/LRTHW/ex28.rb",
@@ -456,10 +463,7 @@
 		"/home/oren/rails_projects/thechosengifts_com/app/helpers/application_helper.rb",
 		"/home/oren/rails_projects/thechosengifts_com/app/controllers/static_pages_controller.rb",
 		"/home/oren/rails_projects/thechosengifts_com/app/views/static_pages/home.html.erb",
-		"/home/oren/rails_projects/thechosengifts_com/app/views/layouts/_header.html.erb",
-		"/home/oren/rails_projects/thechosengifts_com/app/assets/stylesheets/layout.css",
-		"/home/oren/rails_projects/thechosengifts_com/app/views/layouts/_footer.html.erb",
-		"/home/oren/rails_projects/thechosengifts_com/tmp/cache/assets/D5A/EA0/sprockets%2Fd771ace226fc8215a3572e0aa35bb0d6"
+		"/home/oren/rails_projects/thechosengifts_com/app/views/layouts/_header.html.erb"
 	],
 	"find":
 	{
@@ -578,6 +582,10 @@
 		"height": 0.0,
 		"selected_items":
 		[
+			[
+				"ex33",
+				"ex33.rb"
+			],
 			[
 				"app",
 				"config/application.rb"
