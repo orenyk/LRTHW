@@ -4,6 +4,14 @@
 		"selected_items":
 		[
 			[
+				"bear",
+				"bear_room"
+			],
+			[
+				"gold",
+				"gold_room"
+			],
+			[
 				"star",
 				"start_point"
 			],
@@ -263,9 +271,13 @@
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 264.0,
+		"height": 369.0,
 		"selected_items":
 		[
+			[
+				"wra",
+				"Word Wrap: Toggle"
+			],
 			[
 				"wrap",
 				"Word Wrap: Toggle"
@@ -336,6 +348,8 @@
 	},
 	"file_history":
 	[
+		"/home/oren/ruby_projects/LRTHW/ex35.rb",
+		"/home/oren/ruby_projects/LRTHW/ex34.rb",
 		"/home/oren/ruby_projects/LRTHW/ex33.rb",
 		"/home/oren/ruby_projects/LRTHW/ex31.rb",
 		"/home/oren/ruby_projects/LRTHW/ex32.rb",
@@ -461,9 +475,7 @@
 		"/home/oren/rails_projects/thechosengifts_com/app/views/static_pages/help.html.erb",
 		"/home/oren/rails_projects/thechosengifts_com/spec/spec_helper.rb",
 		"/home/oren/rails_projects/thechosengifts_com/app/helpers/application_helper.rb",
-		"/home/oren/rails_projects/thechosengifts_com/app/controllers/static_pages_controller.rb",
-		"/home/oren/rails_projects/thechosengifts_com/app/views/static_pages/home.html.erb",
-		"/home/oren/rails_projects/thechosengifts_com/app/views/layouts/_header.html.erb"
+		"/home/oren/rails_projects/thechosengifts_com/app/controllers/static_pages_controller.rb"
 	],
 	"find":
 	{
