@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"get",
+				"get_input"
+			],
+			[
 				"bear",
 				"bear_room"
 			],
@@ -348,6 +352,8 @@
 	},
 	"file_history":
 	[
+		"/home/oren/ruby_projects/LRTHW/ex36.rb",
+		"/home/oren/ruby_projects/LRTHW/ex25.rb",
 		"/home/oren/ruby_projects/LRTHW/ex35.rb",
 		"/home/oren/ruby_projects/LRTHW/ex34.rb",
 		"/home/oren/ruby_projects/LRTHW/ex33.rb",
@@ -356,7 +362,6 @@
 		"/home/oren/ruby_projects/LRTHW/ex29.rb",
 		"/home/oren/ruby_projects/LRTHW/ex30.rb",
 		"/home/oren/ruby_projects/LRTHW/ex28.rb",
-		"/home/oren/ruby_projects/LRTHW/ex25.rb",
 		"/home/oren/ruby_projects/LRTHW/ex26.rb",
 		"/home/oren/ruby_projects/LRTHW/ex24.rb",
 		"/home/oren/ruby_projects/LRTHW/ex20.rb",
@@ -474,8 +479,7 @@
 		"/home/oren/rails_projects/thechosengifts_com/app/views/static_pages/contact.html.erb",
 		"/home/oren/rails_projects/thechosengifts_com/app/views/static_pages/help.html.erb",
 		"/home/oren/rails_projects/thechosengifts_com/spec/spec_helper.rb",
-		"/home/oren/rails_projects/thechosengifts_com/app/helpers/application_helper.rb",
-		"/home/oren/rails_projects/thechosengifts_com/app/controllers/static_pages_controller.rb"
+		"/home/oren/rails_projects/thechosengifts_com/app/helpers/application_helper.rb"
 	],
 	"find":
 	{
