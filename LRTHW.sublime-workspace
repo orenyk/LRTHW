@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"logi",
+				"logic_and_looping"
+			],
+			[
 				"get",
 				"get_input"
 			],
@@ -275,7 +279,7 @@
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 369.0,
+		"height": 138.0,
 		"selected_items":
 		[
 			[
@@ -352,6 +356,7 @@
 	},
 	"file_history":
 	[
+		"/home/oren/ruby_projects/LRTHW/ex37.rb",
 		"/home/oren/ruby_projects/LRTHW/ex36.rb",
 		"/home/oren/ruby_projects/LRTHW/ex25.rb",
 		"/home/oren/ruby_projects/LRTHW/ex35.rb",
@@ -478,8 +483,7 @@
 		"/home/oren/rails_projects/thechosengifts_com/app/views/static_pages/about.html.erb",
 		"/home/oren/rails_projects/thechosengifts_com/app/views/static_pages/contact.html.erb",
 		"/home/oren/rails_projects/thechosengifts_com/app/views/static_pages/help.html.erb",
-		"/home/oren/rails_projects/thechosengifts_com/spec/spec_helper.rb",
-		"/home/oren/rails_projects/thechosengifts_com/app/helpers/application_helper.rb"
+		"/home/oren/rails_projects/thechosengifts_com/spec/spec_helper.rb"
 	],
 	"find":
 	{
