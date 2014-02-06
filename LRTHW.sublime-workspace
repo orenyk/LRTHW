@@ -356,6 +356,8 @@
 	},
 	"file_history":
 	[
+		"/home/oren/ruby_projects/LRTHW/ex38.rb",
+		"/home/oren/ruby_projects/LRTHW/ex39.rb",
 		"/home/oren/ruby_projects/LRTHW/ex37.rb",
 		"/home/oren/ruby_projects/LRTHW/ex36.rb",
 		"/home/oren/ruby_projects/LRTHW/ex25.rb",
@@ -481,9 +483,7 @@
 		"/home/oren/ruby_projects/thechosengifts_com/spec/helpers/application_helper_spec.rb",
 		"/home/oren/rails_projects/thechosengifts_com/app/views/static_pages/privacy.html.erb",
 		"/home/oren/rails_projects/thechosengifts_com/app/views/static_pages/about.html.erb",
-		"/home/oren/rails_projects/thechosengifts_com/app/views/static_pages/contact.html.erb",
-		"/home/oren/rails_projects/thechosengifts_com/app/views/static_pages/help.html.erb",
-		"/home/oren/rails_projects/thechosengifts_com/spec/spec_helper.rb"
+		"/home/oren/rails_projects/thechosengifts_com/app/views/static_pages/contact.html.erb"
 	],
 	"find":
 	{
